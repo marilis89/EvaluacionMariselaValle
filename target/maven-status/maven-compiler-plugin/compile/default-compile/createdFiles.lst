@@ -1,0 +1,10 @@
+com\aplicativo\aplicativo\ClasesV.class
+com\aplicativo\aplicativo\Resultado.class
+com\aplicativo\aplicativo\Atributos.class
+com\aplicativo\aplicativo\SimilitudSemantica.class
+com\aplicativo\aplicativo\Controlador.class
+com\aplicativo\aplicativo\AplicativoApplication.class
+com\aplicativo\aplicativo\Stemm_es.class
+com\aplicativo\aplicativo\ClasesF.class
+com\aplicativo\aplicativo\service\UploadService.class
+com\aplicativo\aplicativo\LevenshteinDistance.class
